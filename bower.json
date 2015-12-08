@@ -1,5 +1,6 @@
 {
   "name": "mu-jquery-hashchange",
+  "version": "1.0.0",
   "homepage": "https://github.com/mu-lib/mu-jquery-hashchange",
   "repository": {
     "type": "git",
